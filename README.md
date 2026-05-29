@@ -1,7 +1,9 @@
+
 <div align="center">
-  <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=200&width=2000&bannerText=Hello! My name is Iury Moretti 😄" />
+  <!-- Hello! My name is Iury Moretti 😄 -->
+  <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=200&width=2000&bannerText=Hello!%20my%20name%20is%20Iury%20Moretti%20%F0%9F%98%84" />
   <a href="https://github.com/Luury">
-    
+
   <div style="display: inline_block"><br>
     
   <img align="center" alt="Lury-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
